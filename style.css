@@ -1,0 +1,32 @@
+/* CSS Document */
+
+h1 {color:red;}
+h2 {color:green;}
+h3 {color:purple;}
+h4 {color:aqua;}
+h5 {color:blue;}
+h6 {color:orange;}
+
+p {color:yellow}
+
+
+body {
+	background-color: #FF9494;
+	color:#FFE3E1;
+	font-family:sans-serif;
+	font-weight:bold;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin: 0;
+}
+
+box-1 {
+	background-color:#562B08;
+	color: #fff;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+	
+}
